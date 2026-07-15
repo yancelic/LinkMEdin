@@ -1,0 +1,34 @@
+# ─── LinkMEdin Git Ignore ───
+
+# Çevresel Değişkenler (API Anahtarları)
+.env
+.env.local
+
+# LinkedIn Kalıcı Oturum ve Profil Klasörü (Çerezler ve Session Verileri)
+.linkedin_app_profile/
+Users/Muhsin/.linkedin_app_profile/
+
+# Geçici Log Dosyaları
+*.log
+test_output.log
+
+# Python Önbellek ve Derleme Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Geçici Dosyalar (LinkedIn'e metin yapıştırırken oluşturulan geçici txt dosyaları)
+tmp*.txt
+*.tmp
+temp_*.txt
+
+# Sanal Ortamlar (Venv)
+venv/
+.venv/
+env/
+.env/
+htmlcov/
+.tox/
+.coverage
+.cache
