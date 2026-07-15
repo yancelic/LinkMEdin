@@ -57,4 +57,4 @@ API anahtarınız ve LinkedIn şifre/çerez oturum bilgileriniz kesinlikle dış
 
 ---
 
-**Geliştirici:** Muhsin Kılıç (Selçuk Üniversitesi Bilgisayar Mühendisliği Öğrencisi)
+**Geliştirici:** Yankı Muhsin Kılıç (Selçuk Üniversitesi Bilgisayar Mühendisliği Öğrencisi)
